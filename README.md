@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Engineering What’s Next Through Code, Systems & Vision
 
-_"Bridging innovation, infrastructure, and intelligence with curiosity and precision."_
+_Bridging innovation, infrastructure, and intelligence with curiosity and precision._
 
 </div>
 

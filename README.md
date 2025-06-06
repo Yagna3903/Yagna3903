@@ -1,9 +1,35 @@
-# 👋 Hey, I'm Yagna Patel
+<div align="center">
 
-🎓 Computer Systems Technology @ Sheridan College (Graduating Dec 2025)  
-💼 IT Infrastructure & DevOps Co-op @ Sheridan FAST  
-🔧 Previously: Full-Stack Developer | Technical Consultant  
-🌱 Passionate about DevOps • Full-Stack • Cloud • Open Source
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=200&section=header&text=Yagna%20Patel&fontSize=42&fontColor=ffffff&animation=fadeIn)
+
+### 👨‍💻 Engineering What’s Next Through Code, Systems & Vision
+
+_"Bridging innovation, infrastructure, and intelligence with curiosity and precision."_
+
+</div>
+
+---
+
+## ⚡ About Me
+
+🎓 **Computer Systems Technology @ Sheridan College** (Graduating Dec 2025)  
+💼 **IT Infrastructure & DevOps Co-op @ Sheridan FAST**  
+🔁 Previously: Full-Stack Developer | Technical Consultant  
+🌱 Open to roles in **AI/ML**, **DevOps**, **Cloud**, **Software Development**, and **IT Infrastructure**
+
+---
+
+## 🧠 Certification & Badge
+
+<p align="left">
+  <a href="https://www.credly.com/go/I1QNqRL37lAvpXr4BG0Jtw" target="_blank">
+    <img src="https://github.blog/wp-content/uploads/2024/11/github-foundations-certification.png?w=1024&resize=1024%2C1024" alt="GitHub Foundations Badge" width="150"/>
+  </a>
+</p>
+
+**GitHub Foundations Certified – June 2025**
+
+
 
 ---
 
@@ -20,59 +46,77 @@ AWS, Azure, GCP, GitHub Actions, VirtualBox, Snipe-IT, Microsoft 365
 MySQL, PostgreSQL, Oracle, MongoDB, Supabase
 
 **Tools & Platforms:**  
-Git, GitHub Desktop, Jira, Trello, Figma, Power BI, Cisco Packet Tracer, Wireshark
+Git, GitHub Desktop, Jira, Trello, Figma, Power BI, Wireshark, Cisco Packet Tracer
 
 **Operating Systems:**  
 Windows, macOS, Linux (Ubuntu, NixOS), Android
 
 ---
 
-## 🧠 Certifications & Badges
-
-- ✅ **GitHub Foundations Certified** (June 2025)  
-  ![Badge Placeholder](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)  
-  *[View Certificate](#) — link to your certificate once available*
-
----
-
 ## 🚀 Projects
 
-### [CareerCraftAI](https://github.com/Yagna3903/Hackathon-Bearhacks)
-AI career advisor app built in 36 hours during BearHacks using OpenAI, Perplexity API, Next.js, and PostgreSQL.
+### [CareerCraftAI](https://github.com/Yagna3903/Hackathon-Bearhacks)  
+🧠 AI career advisor app built in 36 hours during BearHacks  
+✅ Boosted job match accuracy by 30 percent using OpenAI & Perplexity API  
+🔧 Stack: Next.js, PostgreSQL, Tailwind CSS, AI APIs
 
-### [Highlander Simulator](https://github.com/Yagna3903/Highlander-Simulator)
-Grid-based simulation in C# using WPF/UWP, showcasing performance-optimized OOP design and DB integration.
-
----
-
-## 🧑‍💼 Work Experience Highlights
-
-**🔧 IT Infrastructure & DevOps Co-op – Sheridan College**  
-- Built VirtualBox environments with NixOS and automated provisioning with Ansible/Terraform  
-- Managed 500+ assets via Snipe-IT and streamlined classroom tech operations
-
-**💻 Full-Stack Developer – Samskrita Bharati**  
-- Fixed 50+ bugs, designed React + Tailwind games, boosted traffic by 30%
-
-**🧠 Technical Consultant – MindQuad Solutions**  
-- Delivered custom AL/CAL logic for clients, improved reliability by 35%
+### [Highlander Simulator](https://github.com/Yagna3903/Highlander-Simulator)  
+🔹 Grid-based C# simulation using WPF/UWP  
+📊 Reduced execution time by 20 percent with optimized algorithms  
+📁 Includes DB tracking and modular code architecture
 
 ---
 
-## 💼 Leadership & Hackathons
+## 🧑‍💼 Experience Highlights
 
-- **🎓 Director** @ Sheridan Student Union Board (2024–25) — Representing 25,000+ students  
-- **🧠 BearHacks 2025** – Built an AI resume & interview platform in 36 hours
+**IT Infrastructure & DevOps Co-op – Sheridan College**  
+- Automated NixOS deployment in VirtualBox with Ansible & Terraform  
+- Maintained 500+ devices in Snipe-IT for hardware audits  
+- Supported reliable lab performance and tech operations
+
+**Full-Stack Developer – Samskrita Bharati**  
+- 🐞 Resolved 50+ critical bugs to enhance UX  
+- 🎮 Built 2D browser games in React & Tailwind  
+- 🚀 Deployed via cPanel, improving site performance by 15 percent
+
+**Technical Consultant – MindQuad Solutions**  
+- 💡 Developed custom logic in AL/CAL for enterprise clients  
+- 📊 Created 20+ workflows and dynamic reports  
+- 🔍 Debugged & optimized 10+ projects with 35 percent stability improvement
 
 ---
 
-## 📫 Let's Connect
+## 🏆 Leadership & Hackathons
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yagna--Patel-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yagna--patel)  
-[![GitHub](https://img.shields.io/badge/GitHub-Yagna3903-lightgrey?style=flat&logo=github)](https://github.com/Yagna3903)  
-📧 yagna.pattel@gmail.com
+**🎓 Director**, Sheridan Student Union (2024–25)  
+- Elected to represent 25,000+ students  
+- Launched 3 campus-wide initiatives, increasing engagement by 20 percent
+
+**🏑 BearHacks 2025**  
+- Built a resume-enhancement AI web app in a 36-hour hackathon  
+- Collaborated in a high-pressure, team-based dev sprint
 
 ---
 
-![Yagna’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yagna3903&show_icons=true&theme=tokyonight)
+## 📫 Let’s Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/yagna--patel">
+  <img src="https://img.shields.io/badge/LinkedIn-Yagna--Patel-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+</a>
+&nbsp;
+<a href="https://github.com/Yagna3903">
+  <img src="https://img.shields.io/badge/GitHub-Yagna3903-lightgrey?style=for-the-badge&logo=github" alt="GitHub Badge" />
+</a>
+&nbsp;
+<a href="mailto:yagna.pattel@gmail.com">
+  <img src="https://img.shields.io/badge/Email-yagna.pattel@gmail.com-critical?style=for-the-badge&logo=gmail" alt="Email Badge" />
+</a>
+
+</div>
+
+---
+
+![Yagna’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yagna3903&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagna3903&layout=compact&theme=tokyonight)

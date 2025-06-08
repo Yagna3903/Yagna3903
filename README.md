@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=200&section=header&text=Yagna%20Patel&fontSize=42&fontColor=ffffff&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:f12711,100:f5af19&height=200&section=header&text=Yagna%20Patel&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 ### 👨‍💻 Engineering What’s Next Through Code, Systems & Vision
 

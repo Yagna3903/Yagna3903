@@ -74,15 +74,15 @@ Windows, macOS, Linux (Ubuntu, NixOS), Android
 - Maintained 500+ devices in Snipe-IT for hardware audits  
 - Supported reliable lab performance and tech operations
 
-**Full-Stack Developer – Samskrita Bharati**  
-- 🐞 Resolved 50+ critical bugs to enhance UX  
-- 🎮 Built 2D browser games in React & Tailwind  
-- 🚀 Deployed via cPanel, improving site performance by 15 percent
-
-**Technical Consultant – MindQuad Solutions**  
+**Associate Technical Consultant Co-op – MindQuad Solutions**  
 - 💡 Developed custom logic in AL/CAL for enterprise clients  
 - 📊 Created 20+ workflows and dynamic reports  
 - 🔍 Debugged & optimized 10+ projects with 35 percent stability improvement
+
+**Full-Stack Developer Co-op – Samskrita Bharati**  
+- 🐞 Resolved 50+ critical bugs to enhance UX  
+- 🎮 Built 2D browser games in React & Tailwind  
+- 🚀 Deployed via cPanel, improving site performance by 15 percent
 
 ---
 

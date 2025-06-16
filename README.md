@@ -15,7 +15,7 @@ _Bridging innovation, infrastructure, and intelligence with curiosity and precis
 🎓 **Computer Systems Technology @ Sheridan College** (Graduating Dec 2025)  
 💼 **IT Infrastructure & DevOps Co-op @ Sheridan FAST**  
 🔁 Previously: Full-Stack Developer | Technical Consultant  
-🌱 Open to roles in **AI/ML**, **DevOps**, **Cloud**, **Software Development**, and **IT Infrastructure**
+🌱 Open to roles in **AI/ML**, **DevOps**, **Cloud**, **Networking**, **Software Development**, and **IT Infrastructure**
 
 ---
 

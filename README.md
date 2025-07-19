@@ -21,14 +21,27 @@ _Bridging innovation, infrastructure, and intelligence with curiosity and precis
 
 ## 🧠 Certification & Badge
 
-<p align="left">
-  <a href="https://www.credly.com/go/I1QNqRL37lAvpXr4BG0Jtw" target="_blank">
-    <img src="https://github.blog/wp-content/uploads/2024/11/github-foundations-certification.png?w=1024&resize=1024%2C1024" alt="GitHub Foundations Badge" width="150"/>
-  </a>
-</p>
+<div align="center">
 
-**GitHub Foundations Certified – June 2025**
+<!-- GitHub Foundations Badge -->
+<a href="https://www.credly.com/go/I1QNqRL37lAvpXr4BG0Jtw" target="_blank">
+  <img src="https://github.blog/wp-content/uploads/2024/11/github-foundations-certification.png?w=1024&resize=1024%2C1024" width="125" alt="GitHub Badge"/>
+</a>
+<br/>
+<strong style="font-size: 16px;">GitHub Foundations Certified</strong><br/>
+<span style="color: gray;">Issued June 2025</span>
 
+<hr width="40%" style="margin: 20px auto; border: 1px solid #e0e0e0;" />
+
+<!-- Oracle OCI Foundations Associate -->
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D129519F5F0E59DAB0C3A40A51151CD65E85E25306E0343C2B418F7C95F2777D" target="_blank">
+  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFAV1.png" width="250" alt="Oracle Badge"/>
+</a>
+<br/>
+<strong style="font-size: 16px;">Oracle Cloud Infrastructure Foundations Associate</strong><br/>
+<span style="color: gray;">Issued May 2025</span>
+
+</div>
 
 
 ---

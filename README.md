@@ -101,7 +101,7 @@ Windows, macOS, Linux (Ubuntu, NixOS), Android
 
 ## 🏆 Leadership & Hackathons
 
-**🎓 Director, Board Of Directors**, Sheridan Student Union (2024–25)  
+**🎓 Director, Board Of Directors:** <i>Sheridan Student Union (2024–25)</i>
 - Elected to represent 25,000+ students  
 - Launched 3 campus-wide initiatives, increasing engagement by 20 percent
 

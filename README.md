@@ -62,7 +62,7 @@ MySQL, PostgreSQL, Oracle, MongoDB, Supabase
 Git, GitHub Desktop, Jira, Trello, Figma, Power BI, Wireshark, Cisco Packet Tracer
 
 **Operating Systems:**  
-Windows, macOS, Linux (Ubuntu, NixOS), Android
+Windows, macOS, Linux (Ubuntu, NixOS), Android, IOS
 
 ---
 

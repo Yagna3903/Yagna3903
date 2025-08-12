@@ -41,6 +41,16 @@ _Bridging innovation, infrastructure, and intelligence with curiosity and precis
 <strong style="font-size: 16px;">Oracle Cloud Infrastructure Foundations Associate</strong><br/>
 <span style="color: gray;">Issued May 2025</span>
 
+<hr width="40%" style="margin: 20px auto; border: 1px solid #e0e0e0;" />
+
+<!-- GitHub Foundations Badge -->
+<a href="https://www.credly.com/go/I1QNqRL37lAvpXr4BG0Jtw" target="_blank">
+  <img src="https://github.blog/wp-content/uploads/2024/11/github-foundations-certification.png?w=1024&resize=1024%2C1024" width="125" alt="GitHub Badge"/>
+</a>
+<br/>
+<strong style="font-size: 16px;">GitHub Foundations Certified</strong><br/>
+<span style="color: gray;">Issued June 2025</span>
+
 </div>
 
 

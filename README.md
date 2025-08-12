@@ -39,7 +39,7 @@ _Bridging innovation, infrastructure, and intelligence with curiosity and precis
 </a>
 <br/>
 <strong style="font-size: 16px;">Oracle Cloud Infrastructure Foundations Associate</strong><br/>
-<span style="color: gray;">Issued May 2025</span>
+<span style="color: gray;">Issued July 2025</span>
 
 <hr width="40%" style="margin: 20px auto; border: 1px solid #e0e0e0;" />
 

@@ -23,13 +23,13 @@ _Bridging innovation, infrastructure, and intelligence with curiosity and precis
 
 <div align="center">
 
-<!-- GitHub Foundations Badge -->
-<a href="https://www.credly.com/go/I1QNqRL37lAvpXr4BG0Jtw" target="_blank">
-  <img src="https://github.blog/wp-content/uploads/2024/11/github-foundations-certification.png?w=1024&resize=1024%2C1024" width="125" alt="GitHub Badge"/>
+<!-- AWS Certified Cloud Practitioner -->
+<a href="https://www.credly.com/badges/5af3907e-75a5-478d-88d9-19e9e283747c/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="130" alt="GitHub Badge"/>
 </a>
 <br/>
-<strong style="font-size: 16px;">GitHub Foundations Certified</strong><br/>
-<span style="color: gray;">Issued June 2025</span>
+<strong style="font-size: 16px;">AWS Certified Cloud Practitioner</strong><br/>
+<span style="color: gray;">Issued August 2025</span>
 
 <hr width="40%" style="margin: 20px auto; border: 1px solid #e0e0e0;" />
 

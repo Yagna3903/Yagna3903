@@ -141,5 +141,6 @@ Windows, macOS, Linux (Ubuntu, NixOS), Android, IOS
 
 ---
 
-![Yagna’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yagna3903&show_icons=true&theme=tokyonight)  
+![Yagna's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yagna3903&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagna3903&layout=compact&theme=tokyonight)

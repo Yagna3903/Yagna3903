@@ -23,6 +23,16 @@ _Bridging innovation, infrastructure, and intelligence with curiosity and precis
 
 <div align="center">
 
+<!-- AWS Academy Graduate - Cloud Developing -->
+<a href="https://www.credly.com/badges/78630d46-5b21-4469-be5c-89ab60cd97b9/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob" width="125" alt="Oracle Badge"/>
+</a>
+<br/>
+<strong style="font-size: 16px;">AWS Academy Graduate - Cloud Developing</strong><br/>
+<span style="color: gray;">Issued Dec 2025</span>
+
+<hr width="40%" style="margin: 20px auto; border: 1px solid #e0e0e0;" />
+
 <!-- AWS Certified Cloud Practitioner -->
 <a href="https://www.credly.com/badges/5af3907e-75a5-478d-88d9-19e9e283747c/public_url" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="130" alt="GitHub Badge"/>
